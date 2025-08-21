@@ -1,3 +1,1 @@
-commit 1
-commit 2
-none
+feature 1
